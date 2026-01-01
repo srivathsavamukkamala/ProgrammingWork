@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalMaxHeap/FinalMaxHeap.iml" filepath="$PROJECT_DIR$/FinalMaxHeap/FinalMaxHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphCourseSchedule/GraphCourseSchedule.iml" filepath="$PROJECT_DIR$/GraphCourseSchedule/GraphCourseSchedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IST311/IST311.iml" filepath="$PROJECT_DIR$/IST311/IST311.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IST311Class.iml" filepath="$PROJECT_DIR$/.idea/IST311Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IST311LifeCycleQuiz/IST311LifeCycleQuiz.iml" filepath="$PROJECT_DIR$/IST311LifeCycleQuiz/IST311LifeCycleQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IST311ReviewQuiz/IST311ReviewQuiz.iml" filepath="$PROJECT_DIR$/IST311ReviewQuiz/IST311ReviewQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocationGraphProject/LocationGraphProject.iml" filepath="$PROJECT_DIR$/LocationGraphProject/LocationGraphProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxHeap/MaxHeap.iml" filepath="$PROJECT_DIR$/MaxHeap/MaxHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinglyLinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/SinglyLinkedList/SinglyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UMLDiagram/UMLDiagram.iml" filepath="$PROJECT_DIR$/UMLDiagram/UMLDiagram.iml" />
+    </modules>
+  </component>
+</project>
