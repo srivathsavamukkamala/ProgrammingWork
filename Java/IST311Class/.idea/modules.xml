@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree1.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalMaxHeap/FinalMaxHeap.iml" filepath="$PROJECT_DIR$/FinalMaxHeap/FinalMaxHeap.iml" />
       <module fileurl="file://$PROJECT_DIR$/GraphCourseSchedule/GraphCourseSchedule.iml" filepath="$PROJECT_DIR$/GraphCourseSchedule/GraphCourseSchedule.iml" />
